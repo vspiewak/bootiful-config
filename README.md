@@ -1,1 +1,3 @@
-# bootiful-config-server
+# bootiful-config
+
+Store configuration
